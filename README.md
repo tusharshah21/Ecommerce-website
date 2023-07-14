@@ -1,4 +1,3 @@
-﻿# ecommerce-website
 # ecommerce-website with add to cart functionality
 
 ## Description
