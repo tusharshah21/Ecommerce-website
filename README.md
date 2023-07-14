@@ -1,4 +1,4 @@
-# ecommerce-website with add to cart functionality
+# Ecommerce-website with add-to-cart functionality
 
 ## Description
 
